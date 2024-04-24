@@ -1,0 +1,8 @@
+version=1
+id=3231254747
+title=Worse Vehicle Condition [Reupload]
+description=This is a reupload of the original mod Worse Vehicle Condition.
+description=
+description=If the original dev wants me to delete this, I will.
+tags=Build 41;Balance;Hardmode;Map;Misc;Realistic
+visibility=public
